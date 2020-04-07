@@ -14,7 +14,7 @@ The main goal of JG.Codes Responsive Design is to create a framework that could 
 ## Setup
 Include that line of code into your head tag for a better performance  
 ~~~html
-<link rel="stylesheet" href="//cdn.jg.codes/jgc-responsive-design.min.css" />
+<link rel="stylesheet" href="//cdn.jg.codes/v1/jgc-responsive-design.min.css" />
 ~~~
 
 We suggest to add these meta tags in your head tag to optimize the design responsiveness.
